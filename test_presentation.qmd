@@ -7,6 +7,10 @@ format:
 editor: visual
 ---
 
+## About Me
+
+My name it Torie.
+
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
